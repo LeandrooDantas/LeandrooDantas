@@ -1,4 +1,4 @@
-# 👋 Olá, me chamo Leandro Dantas 👋 Hello, my name is Leandro Dantas
+# 👋 Olá, me chamo Leandro Dantas 
 
 Sou desenvolvedor web apaixonado por criar interfaces modernas, sistemas eficientes e experiências digitais intuitivas.
 
@@ -12,7 +12,9 @@ Estou sempre estudando, evoluindo e buscando novos desafios, transformando ideia
 
 📩 Entre em contato pelos canais disponíveis. Ficarei feliz em ajudar você ou sua empresa a desenvolver a melhor solução possível.
 
+🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸
 
+# 👋 Hello, my name is Leandro Dantas
 
 I’m a web developer passionate about creating modern interfaces, efficient systems, and intuitive digital experiences.
 
